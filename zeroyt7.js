@@ -47,10 +47,10 @@ const toMs = require('ms')
 
 //━━━━━━━━━━━━━━━[ SETTING ]━━━━━━━━━━━━━━━━━//
 
-botname = 'Kunz Botz'
+botname = 'Zifd Botzz'
 zerokey =  'ZeroYT7'
-ownername = 'KunzxD'
-owner = '6287778886786'
+ownername = 'ZainnTrpz'
+owner = '60195538106'
 bold = '*'
 petik = '```'
 
